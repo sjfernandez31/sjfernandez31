@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Steven%20Fernandez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenjfernandez31)
 [![GitHub](https://img.shields.io/badge/GitHub-sjfernandez31-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sjfernandez31)
 [![AegisOS](https://img.shields.io/badge/AegisOS-Live%20Platform-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://aegis-os-orcin.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-Download-C0562B?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/sjfernandez31/sjfernandez31/raw/main/IT_Tech_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-C0562B?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/sjfernandez31/sjfernandez31/raw/main/IT%20Tech%20Resume.pdf)
 
 <br/>
 
