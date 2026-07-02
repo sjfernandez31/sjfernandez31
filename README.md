@@ -182,11 +182,11 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjfernandez31&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjfernandez31&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sjfernandez31&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjfernandez31&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjfernandez31&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjfernandez31&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=1800)
 
 </div>
 
@@ -194,7 +194,7 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 
 ## `〈 MISSION STATEMENT 〉`
 
-> *"I came from a decade behind the wheel — where one missed inspection could end a career or a life. That discipline is what I bring to IT. Every ticket matters. Every system matters. Every user matters. I'm not here to pass certs — I'm here to build things that work and protect the people who depend on them."*
+> *"I came from a decade behind the wheel, where one missed inspection could end a career or a life. That discipline is what I bring to IT. Every ticket matters. Every system matters. Every user matters. I'm not here to pass certs, I'm here to build things that work and protect the people who depend on them."*
 
 ---
 
