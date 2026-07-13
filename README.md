@@ -7,7 +7,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=3000&color=00FF41&center=true&vCenter=true&width=800&lines=STEVEN+J.+FERNANDEZ)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=IT+Support+%7C+Help+Desk+%7C+Cybersecurity+%7C+Blue+Team+Operations)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=00FF41&center=true&vCenter=true&width=900&lines=IT+Support+%7C+Help+Desk+%7C+Cybersecurity+%7C+Blue+Team+Operations)
 
 **`[ CompTIA A+ | Network+ | CIOS | ITIL 4 | WGU B.S. Cybersecurity — In Progress ]`**
 
@@ -67,7 +67,7 @@ A production-grade web application powered by GPT-4o with tools covering threat 
 ### 🔵 BLUE TEAM HOME LAB
 > ⚡ *Defender-side log analysis, Nmap recon, and brute-force detection — built to simulate real SOC workflows*
 
-Running structured blue team exercises in a local VM environment. Exercise 1 complete: Nmap scanning with full defender-side log capture and analysis. Exercise 2 in progress: Hydra brute-force simulation with detection documentation. All exercises written as professional technical reports.
+Running structured blue team exercises in a local VM environment. 4 exercises complete: lab setup, Nmap network scanning, Hydra RDP brute force, and Wireshark PCAP analysis. All exercises documented as professional technical reports with full attacker and defender phases.
 
 `Nmap` `Hydra` `Wireshark` `Windows Event Logs` `VMware Workstation` `Log Analysis` `Blue Team`
 
@@ -168,9 +168,9 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 ║              OPERATION: NEXT LEVEL                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  🟡  Security+               — Next cert in queue           ║
-║  🔵  Blue Team Lab Ex. 2     — Hydra brute-force defense    ║
-║  🟢  SIEM / Splunk Lab       — Log ingestion + alerting     ║
-║  🔵  Incident Response Lab   — Full IR playbook exercise    ║
+║  🔵  Blue Team Lab Ex. 05    — AD Attack & Defend           ║
+║  🟢  Blue Team Lab Ex. 06    — Home SIEM with Wazuh         ║
+║  🔵  Blue Team Lab Ex. 07    — SigmaHQ Detection Rules      ║
 ║  🟡  CySA+ / CEH             — Mid-term cert roadmap        ║
 ║  🟢  Land IT Support Role    — NJ in-person or remote       ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -182,11 +182,11 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjfernandez31&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sjfernandez31&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&dates=00FF41&sideLabels=00FF41&sideNums=00FF41&stroke=00FF41)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjfernandez31&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjfernandez31&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)](https://github.com/sjfernandez31)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjfernandez31&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=1800)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjfernandez31&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)](https://github.com/sjfernandez31)
 
 </div>
 
@@ -194,7 +194,7 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 
 ## `〈 MISSION STATEMENT 〉`
 
-> *"I came from a decade behind the wheel, where one missed inspection could end a career or a life. That discipline is what I bring to IT. Every ticket matters. Every system matters. Every user matters. I'm not here to pass certs, I'm here to build things that work and protect the people who depend on them."*
+> *"I came from a decade behind the wheel — where one missed inspection could end a career or a life. That discipline is what I bring to IT. Every ticket matters. Every system matters. Every user matters. I'm not here to pass certs — I'm here to build things that work and protect the people who depend on them."*
 
 ---
 
