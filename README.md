@@ -194,7 +194,7 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 
 ## `〈 MISSION STATEMENT 〉`
 
-> *"I came from a decade behind the wheel — where one missed inspection could end a career or a life. That discipline is what I bring to IT. Every ticket matters. Every system matters. Every user matters. I'm not here to pass certs — I'm here to build things that work and protect the people who depend on them."*
+> *"I came from a decade behind the wheel, where one missed inspection could end my career or a life. That discipline is what I bring to IT. Every ticket matters. Every system matters. Every user matters. I'm not here to pass certs, I'm here to build things that work and protect the people who depend on them."*
 
 ---
 
