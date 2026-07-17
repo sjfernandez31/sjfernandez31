@@ -34,7 +34,7 @@ EDUCATION    : B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 
                A.S. General Studies (CS Concentration) — Ocean County College (2026)
 EXPERIENCE   : IT Help Desk · AI Prompt Training · Customer Support & Compliance (ACD Direct)
 MISSION      : Protect the system. Support the user. Document everything.
-PHILOSOPHY   : "You don't rise to the level of your goals — you fall to the level of your systems."
+PHILOSOPHY   : "You don't rise to the level of your goals, you fall to the level of your systems."
 STATUS       : [ ACTIVE ] — Open to IT Support, Help Desk & Cybersecurity roles | NJ / Remote
 ```
 
