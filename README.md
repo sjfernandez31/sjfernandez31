@@ -148,7 +148,7 @@ Working through CompTIA Security+ SY0-701 coursework at WGU. Each lab is complet
 **Education**
 
 ![WGU](https://img.shields.io/badge/B.S.%20Cybersecurity-WGU%20%7C%20Dec%202027-003366?style=for-the-badge&logoColor=white)
-![OCC](https://img.shields.io/badge/A.S.%20General%20Studies%20(CS)-OCC%20%7C%202026-006633?style=for-the-badge&logoColor=white)
+![OCC](https://img.shields.io/badge/A.S.%20General%20Studies%20(CS)-OCC%20%7C%202026%20%7C%20Summa%20Cum%20Laude%20%7C%203.907%20GPA-006633?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -168,7 +168,7 @@ Working through CompTIA Security+ SY0-701 coursework at WGU. Each lab is complet
     DOT · ELD · FMCSR compliance · SLA-driven ops · technical documentation
 
 🎓  B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2027)
-🎓  A.S. General Studies (CS Concentration) — Ocean County College (2026)
+🎓  A.S. General Studies (CS Concentration) — Ocean County College (2026) — Summa Cum Laude | 3.907 GPA
 ```
 
 ---
