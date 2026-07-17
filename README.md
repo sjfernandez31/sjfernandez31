@@ -44,7 +44,7 @@ STATUS       : [ ACTIVE ] — Open to IT Support, Help Desk & Cybersecurity role
 - 🖥️ **Active home lab operator** — Windows Server 2022 AD environments, VMware, Blue Team exercises
 - ⚡ **AegisOS builder** — deployed a live 16-tool AI-powered cybersecurity platform (GPT-4o + Vercel)
 - 📋 **Compliance-trained** — PCI DSS, ServiceNow ticketing, VoIP support at ACD Direct
-- 🔐 **Blue Team mindset** — Nmap recon analysis, Hydra brute-force defense, log analysis in progress
+- 🔐 **Blue Team mindset** — Nmap recon analysis, Hydra brute-force defense, Wireshark PCAP analysis
 - 📦 **CDL-A background** — DOT, ELD, FMCSR compliance translates directly into process discipline
 - 🎓 **Certifications stacked** — A+, Network+, CIOS, ITIL 4 — Security+ next in queue
 
@@ -60,7 +60,7 @@ A production-grade web application powered by GPT-4o with tools covering threat 
 `GPT-4o` `OpenAI API` `Vercel` `JavaScript` `Prompt Engineering` `Cybersecurity`
 
 [![View Live](https://img.shields.io/badge/▶_LIVE_DEMO-aegis--os--orcin.vercel.app-00FF41?style=flat-square&logo=vercel&logoColor=black)](https://aegis-os-orcin.vercel.app)
-[![View Repo](https://img.shields.io/badge/▶_VIEW_REPOSITORY-181717?style=flat-square&logo=github)](https://github.com/sjfernandez31)
+[![View Repo](https://img.shields.io/badge/▶_VIEW_REPOSITORY-181717?style=flat-square&logo=github)](https://github.com/sjfernandez31/AegisOS)
 
 ---
 
@@ -86,6 +86,17 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 
 ---
 
+### 📚 WGU SECURITY+ LAB PREP — SY0-701 COURSEWORK
+> ⚡ *Hands-on Security+ labs completed through WGU LabsOnDemand — documented as study records alongside exam objectives*
+
+Working through CompTIA Security+ SY0-701 coursework at WGU. Each lab is completed inside a live VM environment and documented with full walkthroughs, findings, and key takeaways. Lab 01 complete: System Configuration Gap Analysis — scored 8/8.
+
+`Security+ SY0-701` `Policy Analyzer` `Gap Analysis` `WGU` `LabsOnDemand` `CompTIA`
+
+[![View Repo](https://img.shields.io/badge/▶_VIEW_REPOSITORY-181717?style=flat-square&logo=github)](https://github.com/sjfernandez31/WGU-SecPlus)
+
+---
+
 ## `〈 TECH ARSENAL 〉`
 
 ### 🔒 Security & Defense
@@ -94,6 +105,7 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 ![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=flat-square&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C0562B?style=flat-square&logoColor=white)
 ![Windows Defender](https://img.shields.io/badge/Windows%20Defender-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Policy Analyzer](https://img.shields.io/badge/Policy%20Analyzer-FF6B35?style=flat-square&logoColor=white)
 
 ### 🖥️ Infrastructure & OS
 ![Windows Server](https://img.shields.io/badge/Windows%20Server%202022-0078D4?style=flat-square&logo=windows&logoColor=white)
@@ -127,7 +139,7 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 ![A+](https://img.shields.io/badge/A%2B-CERTIFIED-FF0000?style=for-the-badge&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-CERTIFIED-FF0000?style=for-the-badge&logoColor=white)
 ![CIOS](https://img.shields.io/badge/CIOS-CERTIFIED-FF0000?style=for-the-badge&logoColor=white)
-![Security+](https://img.shields.io/badge/Security%2B-IN%20QUEUE-555555?style=for-the-badge&logoColor=white)
+![Security+](https://img.shields.io/badge/Security%2B-IN%20PROGRESS-FF6B35?style=for-the-badge&logoColor=white)
 
 **ITSM**
 
