@@ -86,17 +86,6 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 
 ---
 
-### 📚 WGU SECURITY+ LAB PREP — SY0-701 COURSEWORK
-> ⚡ *Hands-on Security+ labs completed through WGU LabsOnDemand — documented as study records alongside exam objectives*
-
-Working through CompTIA Security+ SY0-701 coursework at WGU. Each lab is completed inside a live VM environment and documented with full walkthroughs, findings, and key takeaways. Lab 01 complete: System Configuration Gap Analysis — scored 8/8.
-
-`Security+ SY0-701` `Policy Analyzer` `Gap Analysis` `WGU` `LabsOnDemand` `CompTIA`
-
-[![View Repo](https://img.shields.io/badge/▶_VIEW_REPOSITORY-181717?style=flat-square&logo=github)](https://github.com/sjfernandez31/WGU-SecPlus)
-
----
-
 ## `〈 TECH ARSENAL 〉`
 
 ### 🔒 Security & Defense
