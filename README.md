@@ -31,7 +31,7 @@ NAME         : Steven J. Fernandez
 ROLE         : IT Support Specialist | Aspiring Cybersecurity Analyst
 CLEARANCE    : CompTIA A+ · Network+ · CIOS · ITIL 4 Foundation
 EDUCATION    : B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2027)
-               A.S. General Studies (CS Concentration) — Ocean County College (2026)
+               A.S. General Studies (CS Concentration) — Ocean County College (2026) — Summa Cum Laude
 EXPERIENCE   : IT Help Desk · AI Prompt Training · Customer Support & Compliance (ACD Direct)
 MISSION      : Protect the system. Support the user. Document everything.
 PHILOSOPHY   : "You don't rise to the level of your goals, you fall to the level of your systems."
