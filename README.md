@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=00FF41&center=true&vCenter=true&width=900&lines=IT+Support+%7C+Help+Desk+%7C+Cybersecurity+%7C+Blue+Team+Operations)
 
-**`[ CompTIA A+ | Network+ | CIOS | ITIL 4 | WGU B.S. Cybersecurity — In Progress ]`**
+**`[ CompTIA A+ | Network+ | Security+ | CIOS | ITIL 4 | WGU B.S. Cybersecurity — In Progress ]`**
 
 <br/>
 
@@ -28,11 +28,12 @@
 
 ```
 NAME         : Steven J. Fernandez
-ROLE         : IT Support Specialist | Aspiring Cybersecurity Analyst
-CLEARANCE    : CompTIA A+ · Network+ · CIOS · ITIL 4 Foundation
+ROLE         : Entry-Level IT Support | Cybersecurity Student
+CLEARANCE    : CompTIA A+ · Network+ · Security+ · CIOS · ITIL 4 Foundation
 EDUCATION    : B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2027)
                A.S. General Studies (CS Concentration) — Ocean County College (2026) — Summa Cum Laude
-EXPERIENCE   : IT Help Desk · AI Prompt Training · Customer Support & Compliance (ACD Direct)
+EXPERIENCE   : AI Prompt Training · Customer Support & Compliance (ACD Direct) · Commercial Logistics (CDL-A)
+HANDS-ON     : 20+ documented home labs — Windows Server 2022, Active Directory, Blue Team operations
 MISSION      : Protect the system. Support the user. Document everything.
 PHILOSOPHY   : "You don't rise to the level of your goals, you fall to the level of your systems."
 STATUS       : [ ACTIVE ] — Open to IT Support, Help Desk & Cybersecurity roles | NJ / Remote
@@ -41,12 +42,12 @@ STATUS       : [ ACTIVE ] — Open to IT Support, Help Desk & Cybersecurity role
 **What sets me apart — fast scan:**
 
 - 🛡️ **Bilingual (EN/ES)** — able to support diverse user bases in two languages
-- 🖥️ **Active home lab operator** — Windows Server 2022 AD environments, VMware, Blue Team exercises
-- ⚡ **AegisOS builder** — deployed a live 16-tool AI-powered cybersecurity platform (GPT-4o + Vercel)
+- 🖥️ **Active home lab operator** — Windows Server 2022 AD environments, VMware, 20+ documented labs across two repos
+- ⚡ **AegisOS builder** — deployed a live 16-tool AI-powered cybersecurity platform (GPT-4o + Vercel), built while studying for Security+
 - 📋 **Compliance-trained** — PCI DSS, ServiceNow ticketing, VoIP support at ACD Direct
-- 🔐 **Blue Team mindset** — Nmap recon analysis, Hydra brute-force defense, Wireshark PCAP analysis
+- 🔐 **Blue Team mindset** — Nmap and vulnerability scanning, Hydra brute-force defense, Wireshark PCAP analysis, Wazuh SIEM, SigmaHQ detection rules, forensics with Autopsy
 - 📦 **CDL-A background** — DOT, ELD, FMCSR compliance translates directly into process discipline
-- 🎓 **Certifications stacked** — A+, Network+, CIOS, ITIL 4 — Security+ next in queue
+- 🎓 **Certifications stacked** — A+, Network+, Security+, CIOS, ITIL 4
 
 ---
 
@@ -55,7 +56,7 @@ STATUS       : [ ACTIVE ] — Open to IT Support, Help Desk & Cybersecurity role
 ### 🟢 AEGIS OS — AI CYBERSECURITY PLATFORM
 > ⚡ *Built and deployed a live 16-tool AI-powered cybersecurity platform — recognized by Handshake's official LinkedIn*
 
-A production-grade web application powered by GPT-4o with tools covering threat analysis, log parsing, CVE lookup, phishing detection, network recon, and more. Built in an intensive session using OpenAI Codex CLI and deployed on Vercel. Received organic recognition from Handshake's official LinkedIn account.
+A production-grade web application powered by GPT-4o with tools covering threat analysis, log parsing, CVE lookup, phishing detection, network recon, and more. Built as a Handshake project using AI-assisted development with OpenAI Codex CLI and deployed on Vercel. I built the tools around the concepts I was studying, so it doubled as hands-on prep for my Security+ exam. Received organic recognition from Handshake's official LinkedIn account.
 
 `GPT-4o` `OpenAI API` `Vercel` `JavaScript` `Prompt Engineering` `Cybersecurity`
 
@@ -65,11 +66,11 @@ A production-grade web application powered by GPT-4o with tools covering threat 
 ---
 
 ### 🔵 BLUE TEAM HOME LAB
-> ⚡ *Defender-side log analysis, Nmap recon, and brute-force detection — built to simulate real SOC workflows*
+> ⚡ *Defender-side detection, analysis, and response — built to simulate real SOC workflows*
 
-Running structured blue team exercises in a local VM environment. 4 exercises complete: lab setup, Nmap network scanning, Hydra RDP brute force, and Wireshark PCAP analysis. All exercises documented as professional technical reports with full attacker and defender phases.
+Running structured blue team exercises in an isolated VMware environment with a Kali Linux attacker and a Windows Server 2022 defender. 13 exercises complete: lab setup, Nmap scanning, Hydra brute force, Wireshark analysis, Active Directory attack and defend, Wazuh SIEM, SigmaHQ detection rules, honeypot deployment, PCAP analysis, an incident response playbook, phishing email analysis, vulnerability scanning and reporting, and a digital forensics capstone. Every exercise is documented as a professional technical report. A digital forensics set (Autopsy, Volatility, Windows artifacts, dd) is in progress.
 
-`Nmap` `Hydra` `Wireshark` `Windows Event Logs` `VMware Workstation` `Log Analysis` `Blue Team`
+`Nmap` `Hydra` `Wireshark` `Wazuh` `SigmaHQ` `Autopsy` `Windows Event Logs` `VMware Workstation` `Incident Response` `Blue Team`
 
 [![View Repo](https://img.shields.io/badge/▶_VIEW_REPOSITORY-181717?style=flat-square&logo=github)](https://github.com/sjfernandez31/Blue-Team-Home-Lab)
 
@@ -78,9 +79,9 @@ Running structured blue team exercises in a local VM environment. 4 exercises co
 ### 🟡 IT SUPPORT HOME LAB — ACTIVE DIRECTORY & WINDOWS SERVER
 > ⚡ *Built a full enterprise-simulated AD environment from scratch — documented as professional technical manuals*
 
-Deployed Windows Server 2022 as a domain controller with `support.local`, configured Active Directory, built users, OUs, and group policies, and documented every lab as a recruiter-ready technical manual. Labs 01 and 02 complete. Ongoing build.
+Deployed Windows Server 2022 as a domain controller with `support.local` alongside a Windows 10 Pro client, and documented every lab as a technical manual. 10 labs complete covering Active Directory, DNS and DHCP, Group Policy, osTicket ticketing, Event Viewer, and password resets. Backup and Restore and Printer Deployment labs are next.
 
-`Windows Server 2022` `Active Directory` `VMware Workstation Pro` `Group Policy` `DNS` `DHCP` `PowerShell`
+`Windows Server 2022` `Active Directory` `VMware Workstation Pro` `Group Policy` `DNS` `DHCP` `osTicket` `PowerShell`
 
 [![View Repo](https://img.shields.io/badge/▶_VIEW_REPOSITORY-181717?style=flat-square&logo=github)](https://github.com/sjfernandez31/it-support-home-lab)
 
@@ -92,6 +93,9 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 ![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=flat-square&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=flat-square&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white)
+![SigmaHQ](https://img.shields.io/badge/SigmaHQ-4A5568?style=flat-square&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-2D3748?style=flat-square&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C0562B?style=flat-square&logoColor=white)
 ![Windows Defender](https://img.shields.io/badge/Windows%20Defender-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Policy Analyzer](https://img.shields.io/badge/Policy%20Analyzer-FF6B35?style=flat-square&logoColor=white)
@@ -105,6 +109,7 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 
 ### 🎫 Ticketing & ITSM
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C389?style=flat-square&logo=servicenow&logoColor=white)
+![osTicket](https://img.shields.io/badge/osTicket-1F6FB2?style=flat-square&logoColor=white)
 ![ITIL 4](https://img.shields.io/badge/ITIL%204-6B2D8B?style=flat-square&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
@@ -127,8 +132,8 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 
 ![A+](https://img.shields.io/badge/A%2B-CERTIFIED-FF0000?style=for-the-badge&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-CERTIFIED-FF0000?style=for-the-badge&logoColor=white)
+![Security+](https://img.shields.io/badge/Security%2B-CERTIFIED-FF0000?style=for-the-badge&logoColor=white)
 ![CIOS](https://img.shields.io/badge/CIOS-CERTIFIED-FF0000?style=for-the-badge&logoColor=white)
-![Security+](https://img.shields.io/badge/Security%2B-IN%20PROGRESS-FF6B35?style=for-the-badge&logoColor=white)
 
 **ITSM**
 
@@ -168,12 +173,12 @@ Deployed Windows Server 2022 as a domain controller with `support.local`, config
 ╔══════════════════════════════════════════════════════════════╗
 ║              OPERATION: NEXT LEVEL                           ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🟡  Security+               — Next cert in queue           ║
-║  🔵  Blue Team Lab Ex. 05    — AD Attack & Defend           ║
-║  🟢  Blue Team Lab Ex. 06    — Home SIEM with Wazuh         ║
-║  🔵  Blue Team Lab Ex. 07    — SigmaHQ Detection Rules      ║
-║  🟡  CySA+ / CEH             — Mid-term cert roadmap        ║
-║  🟢  Land IT Support Role    — NJ in-person or remote       ║
+║  🟢  Blue Team Ex. 13-16    — Digital Forensics Set         ║
+║  🔵  Blue Team Ex. 18-21    — Security Assessment & Reviews ║
+║  🟡  IT Support Lab         — Backup/Restore, Printer Setup ║
+║  🔵  WGU B.S. Cybersecurity — Expected Dec 2027             ║
+║  🟡  CySA+ / CEH            — Mid-term cert roadmap         ║
+║  🟢  Land IT Support Role   — NJ in-person or remote        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
