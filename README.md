@@ -262,8 +262,6 @@ Windows Server 2022 as a domain controller (<code>support.local</code>) with a W
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sjfernandez31&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
-
 <sub><code>[ STATUS: ACTIVE OPERATOR · BUILDING IN PUBLIC · OPEN TO OPPORTUNITIES ]</code></sub>
 
 </div>
