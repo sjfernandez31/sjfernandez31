@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Steven J. Fernandez, IT Support, Cybersecurity, Blue Team" width="100%" />
+<img src="hero.svg" alt="Steven J. Fernandez, IT Support, Cybersecurity, Blue Team" width="100%" />
 
 <br/>
 
@@ -11,39 +11,39 @@
 
 <br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// OPERATOR PROFILE</code></h3>
 
-<img src="assets/profile.svg" alt="Profile: entry-level IT support and cybersecurity student, WGU B.S. Cybersecurity, A+, Network+, Security+, CIOS, ITIL 4" width="100%" />
+<img src="profile.svg" alt="Profile: entry-level IT support and cybersecurity student, WGU B.S. Cybersecurity, A+, Network+, Security+, CIOS, ITIL 4" width="100%" />
 
 <br/><br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// LAB STATUS</code></h3>
 
-<img src="assets/status.svg" alt="Lab status: 13 of 21 Blue Team exercises complete, 10 of 12 IT Support labs complete, 5 certifications earned" width="100%" />
+<img src="status.svg" alt="Lab status: 13 of 21 Blue Team exercises complete, 10 of 12 IT Support labs complete, 5 certifications earned" width="100%" />
 
 <br/><br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// LAB ARCHITECTURE</code></h3>
 
-<img src="assets/network.svg" alt="Lab network: Kali Linux attacker, Windows Server 2022 domain controller, and Windows 10 client on an isolated LAN segment inside VMware Workstation Pro" width="100%" />
+<img src="network.svg" alt="Lab network: Kali Linux attacker, Windows Server 2022 domain controller, and Windows 10 client on an isolated LAN segment inside VMware Workstation Pro" width="100%" />
 
 <br/><br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// CAREER PATH</code></h3>
 
-<img src="assets/career-path.svg" alt="Career path from CDL-A driver through certifications and Security+ to IT support, then SOC analyst, then cloud security engineer" width="100%" />
+<img src="career-path.svg" alt="Career path from CDL-A driver through certifications and Security+ to IT support, then SOC analyst, then cloud security engineer" width="100%" />
 
 <br/><br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// MISSION FILES</code></h3>
 
@@ -118,7 +118,7 @@ Windows Server 2022 as a domain controller (<code>support.local</code>) with a W
 
 <br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// TECH ARSENAL</code></h3>
 
@@ -177,7 +177,7 @@ Windows Server 2022 as a domain controller (<code>support.local</code>) with a W
 
 <br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// CREDENTIALS</code></h3>
 
@@ -192,7 +192,7 @@ Windows Server 2022 as a domain controller (<code>support.local</code>) with a W
 
 <br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// OPERATIONAL HISTORY</code></h3>
 
@@ -208,7 +208,7 @@ Windows Server 2022 as a domain controller (<code>support.local</code>) with a W
 
 <br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// MISSION QUEUE</code></h3>
 
@@ -227,7 +227,7 @@ Windows Server 2022 as a domain controller (<code>support.local</code>) with a W
 
 <br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// LIVE STATS</code></h3>
 
@@ -240,7 +240,7 @@ Windows Server 2022 as a domain controller (<code>support.local</code>) with a W
 
 <br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// MISSION STATEMENT</code></h3>
 
@@ -252,7 +252,7 @@ Windows Server 2022 as a domain controller (<code>support.local</code>) with a W
 
 <br/>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <h3><code>// ESTABLISH CONNECTION</code></h3>
 
